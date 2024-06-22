@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Portfolio of Ashish Barman - Software Developer',
+  keyword: 'Maiher Software Developer | Maihar It Services | Sotware Developer | Website Creation | App Creation | App Development | Website Banwaye',
   description: 'This is the portfolio of Ashish Barman. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
 };
 
